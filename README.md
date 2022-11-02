@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaptenenK
 - 👀 I’m an mechanical engineer
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on the road to master JAVA.
+- 💞️ I’m looking to collaborate on the road to master C#.
 - 📫 How to reach me koosha_92@hotmail.com
 
 <!---
